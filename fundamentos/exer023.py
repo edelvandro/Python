@@ -12,4 +12,3 @@ print('Unidade {}'.format(u))
 print('Dezena {}'.format(d))
 print('Centena {}'.format(c))
 print('Milhar {}'.format(m))
-
